@@ -17,7 +17,8 @@ Objective
   
   Data Collection, Exploratory Data Analysis, Data Visualisation & Machine Learning Model.
   
-  Machine Learning Techniques is used
+  Machine Learning Techniques is used     
+  
         Logistic Regression, Decision Tree & Random Forest.
         
         Conclusion
